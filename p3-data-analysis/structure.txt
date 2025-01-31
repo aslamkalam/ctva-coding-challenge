@@ -1,0 +1,10 @@
+app/
+├── .env                 # Environment variables (optional)
+├── config.py            # Configuration settings
+├── database.py          # Database interactions
+├── main.py              # Main execution script
+├── models.py            # Data models (e.g., WeatherStats)
+├── requirements.txt     # Project dependencies
+├── stats_calculation.py  # Statistics calculation logic
+├── weather_data_ingestion.log  # Log file
+└── __init__.py

@@ -1,0 +1,507 @@
+2025-01-30 17:25:12,966 - INFO - Weather data ingestion started at 2025-01-30 17:25:12.966820
+2025-01-30 17:25:12,981 - INFO - Processing file: USC00110072.txt started.
+2025-01-30 17:25:25,585 - INFO - Finished processing file: USC00110072.txt.
+2025-01-30 17:25:25,585 - INFO - Records ingested from USC00110072.txt: 10865
+2025-01-30 17:25:25,585 - INFO - Processing file: USC00110187.txt started.
+2025-01-30 17:25:35,386 - INFO - Finished processing file: USC00110187.txt.
+2025-01-30 17:25:35,387 - INFO - Records ingested from USC00110187.txt: 10407
+2025-01-30 17:25:35,387 - INFO - Processing file: USC00110338.txt started.
+2025-01-30 17:25:45,111 - INFO - Finished processing file: USC00110338.txt.
+2025-01-30 17:25:45,111 - INFO - Records ingested from USC00110338.txt: 10712
+2025-01-30 17:25:45,111 - INFO - Processing file: USC00111280.txt started.
+2025-01-30 17:25:53,986 - INFO - Finished processing file: USC00111280.txt.
+2025-01-30 17:25:53,987 - INFO - Records ingested from USC00111280.txt: 9343
+2025-01-30 17:25:53,987 - INFO - Processing file: USC00111436.txt started.
+2025-01-30 17:26:08,156 - INFO - Finished processing file: USC00111436.txt.
+2025-01-30 17:26:08,156 - INFO - Records ingested from USC00111436.txt: 10744
+2025-01-30 17:26:08,157 - INFO - Processing file: USC00112140.txt started.
+2025-01-30 17:26:22,224 - INFO - Finished processing file: USC00112140.txt.
+2025-01-30 17:26:22,224 - INFO - Records ingested from USC00112140.txt: 10957
+2025-01-30 17:26:22,224 - INFO - Processing file: USC00112193.txt started.
+2025-01-30 17:26:34,874 - INFO - Finished processing file: USC00112193.txt.
+2025-01-30 17:26:34,874 - INFO - Records ingested from USC00112193.txt: 10653
+2025-01-30 17:26:34,875 - INFO - Processing file: USC00112348.txt started.
+2025-01-30 17:26:46,822 - INFO - Finished processing file: USC00112348.txt.
+2025-01-30 17:26:46,823 - INFO - Records ingested from USC00112348.txt: 9681
+2025-01-30 17:26:46,823 - INFO - Processing file: USC00112483.txt started.
+2025-01-30 17:26:56,870 - INFO - Finished processing file: USC00112483.txt.
+2025-01-30 17:26:56,870 - INFO - Records ingested from USC00112483.txt: 10898
+2025-01-30 17:26:56,871 - INFO - Processing file: USC00113335.txt started.
+2025-01-30 17:27:06,957 - INFO - Finished processing file: USC00113335.txt.
+2025-01-30 17:27:06,957 - INFO - Records ingested from USC00113335.txt: 10652
+2025-01-30 17:27:06,957 - INFO - Processing file: USC00113879.txt started.
+2025-01-30 17:27:15,540 - INFO - Finished processing file: USC00113879.txt.
+2025-01-30 17:27:15,541 - INFO - Records ingested from USC00113879.txt: 9074
+2025-01-30 17:27:15,541 - INFO - Processing file: USC00114108.txt started.
+2025-01-30 17:27:25,357 - INFO - Finished processing file: USC00114108.txt.
+2025-01-30 17:27:25,357 - INFO - Records ingested from USC00114108.txt: 10896
+2025-01-30 17:27:25,358 - INFO - Processing file: USC00114198.txt started.
+2025-01-30 17:27:35,151 - INFO - Finished processing file: USC00114198.txt.
+2025-01-30 17:27:35,151 - INFO - Records ingested from USC00114198.txt: 10926
+2025-01-30 17:27:35,151 - INFO - Processing file: USC00114442.txt started.
+2025-01-30 17:27:45,072 - INFO - Finished processing file: USC00114442.txt.
+2025-01-30 17:27:45,072 - INFO - Records ingested from USC00114442.txt: 10957
+2025-01-30 17:27:45,073 - INFO - Processing file: USC00114823.txt started.
+2025-01-30 17:27:55,055 - INFO - Finished processing file: USC00114823.txt.
+2025-01-30 17:27:55,055 - INFO - Records ingested from USC00114823.txt: 10929
+2025-01-30 17:27:55,055 - INFO - Processing file: USC00115079.txt started.
+2025-01-30 17:28:04,735 - INFO - Finished processing file: USC00115079.txt.
+2025-01-30 17:28:04,735 - INFO - Records ingested from USC00115079.txt: 10501
+2025-01-30 17:28:04,736 - INFO - Processing file: USC00115326.txt started.
+2025-01-30 17:28:13,784 - INFO - Finished processing file: USC00115326.txt.
+2025-01-30 17:28:13,784 - INFO - Records ingested from USC00115326.txt: 10077
+2025-01-30 17:28:13,784 - INFO - Processing file: USC00115515.txt started.
+2025-01-30 17:28:19,161 - INFO - Finished processing file: USC00115515.txt.
+2025-01-30 17:28:19,161 - INFO - Records ingested from USC00115515.txt: 6271
+2025-01-30 17:28:19,161 - INFO - Processing file: USC00115712.txt started.
+2025-01-30 17:28:29,882 - INFO - Finished processing file: USC00115712.txt.
+2025-01-30 17:28:29,882 - INFO - Records ingested from USC00115712.txt: 10957
+2025-01-30 17:28:29,883 - INFO - Processing file: USC00115768.txt started.
+2025-01-30 17:28:39,499 - INFO - Finished processing file: USC00115768.txt.
+2025-01-30 17:28:39,499 - INFO - Records ingested from USC00115768.txt: 10745
+2025-01-30 17:28:39,500 - INFO - Processing file: USC00115833.txt started.
+2025-01-30 17:28:50,407 - INFO - Finished processing file: USC00115833.txt.
+2025-01-30 17:28:50,407 - INFO - Records ingested from USC00115833.txt: 10866
+2025-01-30 17:28:50,407 - INFO - Processing file: USC00115901.txt started.
+2025-01-30 17:29:00,479 - INFO - Finished processing file: USC00115901.txt.
+2025-01-30 17:29:00,479 - INFO - Records ingested from USC00115901.txt: 10957
+2025-01-30 17:29:00,479 - INFO - Processing file: USC00115943.txt started.
+2025-01-30 17:29:10,121 - INFO - Finished processing file: USC00115943.txt.
+2025-01-30 17:29:10,121 - INFO - Records ingested from USC00115943.txt: 10957
+2025-01-30 17:29:10,121 - INFO - Processing file: USC00116446.txt started.
+2025-01-30 17:29:21,011 - INFO - Finished processing file: USC00116446.txt.
+2025-01-30 17:29:21,012 - INFO - Records ingested from USC00116446.txt: 10654
+2025-01-30 17:29:21,012 - INFO - Processing file: USC00116526.txt started.
+2025-01-30 17:29:31,133 - INFO - Finished processing file: USC00116526.txt.
+2025-01-30 17:29:31,134 - INFO - Records ingested from USC00116526.txt: 10926
+2025-01-30 17:29:31,134 - INFO - Processing file: USC00116558.txt started.
+2025-01-30 17:29:40,845 - INFO - Finished processing file: USC00116558.txt.
+2025-01-30 17:29:40,845 - INFO - Records ingested from USC00116558.txt: 10804
+2025-01-30 17:29:40,845 - INFO - Processing file: USC00116579.txt started.
+2025-01-30 17:29:52,499 - INFO - Finished processing file: USC00116579.txt.
+2025-01-30 17:29:52,499 - INFO - Records ingested from USC00116579.txt: 10407
+2025-01-30 17:29:52,499 - INFO - Processing file: USC00116610.txt started.
+2025-01-30 18:54:42,234 - INFO - Finished processing file: USC00116610.txt.
+2025-01-30 18:54:42,235 - INFO - Records ingested from USC00116610.txt: 10957
+2025-01-30 18:54:42,236 - INFO - Processing file: USC00116738.txt started.
+2025-01-30 18:54:56,890 - INFO - Finished processing file: USC00116738.txt.
+2025-01-30 18:54:56,890 - INFO - Records ingested from USC00116738.txt: 8126
+2025-01-30 18:54:56,891 - INFO - Processing file: USC00116910.txt started.
+2025-01-30 18:55:12,630 - INFO - Finished processing file: USC00116910.txt.
+2025-01-30 18:55:12,631 - INFO - Records ingested from USC00116910.txt: 10898
+2025-01-30 18:55:12,631 - INFO - Processing file: USC00117551.txt started.
+2025-01-30 18:55:31,670 - INFO - Finished processing file: USC00117551.txt.
+2025-01-30 18:55:31,670 - INFO - Records ingested from USC00117551.txt: 10803
+2025-01-30 18:55:31,671 - INFO - Processing file: USC00118147.txt started.
+2025-01-30 18:55:47,409 - INFO - Finished processing file: USC00118147.txt.
+2025-01-30 18:55:47,409 - INFO - Records ingested from USC00118147.txt: 9896
+2025-01-30 18:55:47,410 - INFO - Processing file: USC00118740.txt started.
+2025-01-30 18:56:02,430 - INFO - Finished processing file: USC00118740.txt.
+2025-01-30 18:56:02,430 - INFO - Records ingested from USC00118740.txt: 10957
+2025-01-30 18:56:02,430 - INFO - Processing file: USC00118916.txt started.
+2025-01-30 18:56:17,184 - INFO - Finished processing file: USC00118916.txt.
+2025-01-30 18:56:17,185 - INFO - Records ingested from USC00118916.txt: 10865
+2025-01-30 18:56:17,185 - INFO - Processing file: USC00119241.txt started.
+2025-01-30 18:56:34,671 - INFO - Finished processing file: USC00119241.txt.
+2025-01-30 18:56:34,671 - INFO - Records ingested from USC00119241.txt: 10869
+2025-01-30 18:56:34,671 - INFO - Processing file: USC00119354.txt started.
+2025-01-30 18:56:50,207 - INFO - Finished processing file: USC00119354.txt.
+2025-01-30 18:56:50,207 - INFO - Records ingested from USC00119354.txt: 10896
+2025-01-30 18:56:50,207 - INFO - Processing file: USC00120177.txt started.
+2025-01-30 18:57:05,947 - INFO - Finished processing file: USC00120177.txt.
+2025-01-30 18:57:05,947 - INFO - Records ingested from USC00120177.txt: 10837
+2025-01-30 18:57:05,947 - INFO - Processing file: USC00120200.txt started.
+2025-01-30 18:57:19,981 - INFO - Finished processing file: USC00120200.txt.
+2025-01-30 18:57:19,982 - INFO - Records ingested from USC00120200.txt: 10927
+2025-01-30 18:57:19,982 - INFO - Processing file: USC00120676.txt started.
+2025-01-30 18:57:29,841 - INFO - Finished processing file: USC00120676.txt.
+2025-01-30 18:57:29,841 - INFO - Records ingested from USC00120676.txt: 10652
+2025-01-30 18:57:29,842 - INFO - Processing file: USC00120784.txt started.
+2025-01-30 18:57:40,004 - INFO - Finished processing file: USC00120784.txt.
+2025-01-30 18:57:40,004 - INFO - Records ingested from USC00120784.txt: 10897
+2025-01-30 18:57:40,004 - INFO - Processing file: USC00121030.txt started.
+2025-01-30 18:57:48,698 - INFO - Finished processing file: USC00121030.txt.
+2025-01-30 18:57:48,698 - INFO - Records ingested from USC00121030.txt: 10135
+2025-01-30 18:57:48,699 - INFO - Processing file: USC00121229.txt started.
+2025-01-30 18:57:54,459 - INFO - Finished processing file: USC00121229.txt.
+2025-01-30 18:57:54,459 - INFO - Records ingested from USC00121229.txt: 6087
+2025-01-30 18:57:54,459 - INFO - Processing file: USC00121425.txt started.
+2025-01-30 18:57:59,758 - INFO - Finished processing file: USC00121425.txt.
+2025-01-30 18:57:59,758 - INFO - Records ingested from USC00121425.txt: 5811
+2025-01-30 18:57:59,758 - INFO - Processing file: USC00121747.txt started.
+2025-01-30 18:58:09,217 - INFO - Finished processing file: USC00121747.txt.
+2025-01-30 18:58:09,218 - INFO - Records ingested from USC00121747.txt: 10957
+2025-01-30 18:58:09,218 - INFO - Processing file: USC00121873.txt started.
+2025-01-30 18:58:18,158 - INFO - Finished processing file: USC00121873.txt.
+2025-01-30 18:58:18,158 - INFO - Records ingested from USC00121873.txt: 10742
+2025-01-30 18:58:18,159 - INFO - Processing file: USC00122149.txt started.
+2025-01-30 18:58:27,031 - INFO - Finished processing file: USC00122149.txt.
+2025-01-30 18:58:27,031 - INFO - Records ingested from USC00122149.txt: 9554
+2025-01-30 18:58:27,031 - INFO - Processing file: USC00123418.txt started.
+2025-01-30 18:58:37,041 - INFO - Finished processing file: USC00123418.txt.
+2025-01-30 18:58:37,041 - INFO - Records ingested from USC00123418.txt: 10957
+2025-01-30 18:58:37,041 - INFO - Processing file: USC00123513.txt started.
+2025-01-30 18:58:47,295 - INFO - Finished processing file: USC00123513.txt.
+2025-01-30 18:58:47,295 - INFO - Records ingested from USC00123513.txt: 10347
+2025-01-30 18:58:47,295 - INFO - Processing file: USC00123527.txt started.
+2025-01-30 18:58:57,528 - INFO - Finished processing file: USC00123527.txt.
+2025-01-30 18:58:57,528 - INFO - Records ingested from USC00123527.txt: 10896
+2025-01-30 18:58:57,528 - INFO - Processing file: USC00124008.txt started.
+2025-01-30 18:59:02,147 - INFO - Finished processing file: USC00124008.txt.
+2025-01-30 18:59:02,147 - INFO - Records ingested from USC00124008.txt: 5476
+2025-01-30 18:59:02,148 - INFO - Processing file: USC00124181.txt started.
+2025-01-30 18:59:11,154 - INFO - Finished processing file: USC00124181.txt.
+2025-01-30 18:59:11,154 - INFO - Records ingested from USC00124181.txt: 10681
+2025-01-30 18:59:11,155 - INFO - Processing file: USC00124837.txt started.
+2025-01-30 18:59:22,409 - INFO - Finished processing file: USC00124837.txt.
+2025-01-30 18:59:22,409 - INFO - Records ingested from USC00124837.txt: 10866
+2025-01-30 18:59:22,409 - INFO - Processing file: USC00125237.txt started.
+2025-01-30 18:59:32,044 - INFO - Finished processing file: USC00125237.txt.
+2025-01-30 18:59:32,045 - INFO - Records ingested from USC00125237.txt: 10865
+2025-01-30 18:59:32,045 - INFO - Processing file: USC00125337.txt started.
+2025-01-30 18:59:41,733 - INFO - Finished processing file: USC00125337.txt.
+2025-01-30 18:59:41,733 - INFO - Records ingested from USC00125337.txt: 10926
+2025-01-30 18:59:41,733 - INFO - Processing file: USC00126001.txt started.
+2025-01-30 18:59:53,296 - INFO - Finished processing file: USC00126001.txt.
+2025-01-30 18:59:53,296 - INFO - Records ingested from USC00126001.txt: 10562
+2025-01-30 18:59:53,296 - INFO - Processing file: USC00126580.txt started.
+2025-01-30 19:00:03,194 - INFO - Finished processing file: USC00126580.txt.
+2025-01-30 19:00:03,194 - INFO - Records ingested from USC00126580.txt: 10899
+2025-01-30 19:00:03,194 - INFO - Processing file: USC00126705.txt started.
+2025-01-30 19:00:12,235 - INFO - Finished processing file: USC00126705.txt.
+2025-01-30 19:00:12,236 - INFO - Records ingested from USC00126705.txt: 10598
+2025-01-30 19:00:12,236 - INFO - Processing file: USC00127125.txt started.
+2025-01-30 19:00:21,375 - INFO - Finished processing file: USC00127125.txt.
+2025-01-30 19:00:21,375 - INFO - Records ingested from USC00127125.txt: 10804
+2025-01-30 19:00:21,375 - INFO - Processing file: USC00127298.txt started.
+2025-01-30 19:00:31,610 - INFO - Finished processing file: USC00127298.txt.
+2025-01-30 19:00:31,610 - INFO - Records ingested from USC00127298.txt: 10957
+2025-01-30 19:00:31,611 - INFO - Processing file: USC00127482.txt started.
+2025-01-30 19:00:42,776 - INFO - Finished processing file: USC00127482.txt.
+2025-01-30 19:00:42,776 - INFO - Records ingested from USC00127482.txt: 10957
+2025-01-30 19:00:42,776 - INFO - Processing file: USC00127522.txt started.
+2025-01-30 19:00:54,171 - INFO - Finished processing file: USC00127522.txt.
+2025-01-30 19:00:54,171 - INFO - Records ingested from USC00127522.txt: 10926
+2025-01-30 19:00:54,171 - INFO - Processing file: USC00127646.txt started.
+2025-01-30 19:01:05,862 - INFO - Finished processing file: USC00127646.txt.
+2025-01-30 19:01:05,863 - INFO - Records ingested from USC00127646.txt: 10957
+2025-01-30 19:01:05,863 - INFO - Processing file: USC00127755.txt started.
+2025-01-30 19:01:16,036 - INFO - Finished processing file: USC00127755.txt.
+2025-01-30 19:01:16,037 - INFO - Records ingested from USC00127755.txt: 8467
+2025-01-30 19:01:16,037 - INFO - Processing file: USC00127875.txt started.
+2025-01-30 19:01:25,121 - INFO - Finished processing file: USC00127875.txt.
+2025-01-30 19:01:25,122 - INFO - Records ingested from USC00127875.txt: 8219
+2025-01-30 19:01:25,122 - INFO - Processing file: USC00127935.txt started.
+2025-01-30 19:01:35,273 - INFO - Finished processing file: USC00127935.txt.
+2025-01-30 19:01:35,273 - INFO - Records ingested from USC00127935.txt: 10380
+2025-01-30 19:01:35,273 - INFO - Processing file: USC00128036.txt started.
+2025-01-30 19:01:46,052 - INFO - Finished processing file: USC00128036.txt.
+2025-01-30 19:01:46,052 - INFO - Records ingested from USC00128036.txt: 10835
+2025-01-30 19:01:46,052 - INFO - Processing file: USC00129080.txt started.
+2025-01-30 19:01:52,566 - INFO - Finished processing file: USC00129080.txt.
+2025-01-30 19:01:52,566 - INFO - Records ingested from USC00129080.txt: 7609
+2025-01-30 19:01:52,566 - INFO - Processing file: USC00129113.txt started.
+2025-01-30 19:02:03,319 - INFO - Finished processing file: USC00129113.txt.
+2025-01-30 19:02:03,320 - INFO - Records ingested from USC00129113.txt: 10927
+2025-01-30 19:02:03,320 - INFO - Processing file: USC00129253.txt started.
+2025-01-30 19:02:14,629 - INFO - Finished processing file: USC00129253.txt.
+2025-01-30 19:02:14,629 - INFO - Records ingested from USC00129253.txt: 10468
+2025-01-30 19:02:14,629 - INFO - Processing file: USC00129511.txt started.
+2025-01-30 19:02:22,206 - INFO - Finished processing file: USC00129511.txt.
+2025-01-30 19:02:22,206 - INFO - Records ingested from USC00129511.txt: 6849
+2025-01-30 19:02:22,206 - INFO - Processing file: USC00129557.txt started.
+2025-01-30 19:02:35,796 - INFO - Finished processing file: USC00129557.txt.
+2025-01-30 19:02:35,796 - INFO - Records ingested from USC00129557.txt: 10957
+2025-01-30 19:02:35,796 - INFO - Processing file: USC00129670.txt started.
+2025-01-30 19:02:48,908 - INFO - Finished processing file: USC00129670.txt.
+2025-01-30 19:02:48,908 - INFO - Records ingested from USC00129670.txt: 10957
+2025-01-30 19:02:48,909 - INFO - Processing file: USC00130112.txt started.
+2025-01-30 19:03:01,269 - INFO - Finished processing file: USC00130112.txt.
+2025-01-30 19:03:01,269 - INFO - Records ingested from USC00130112.txt: 10806
+2025-01-30 19:03:01,269 - INFO - Processing file: USC00130133.txt started.
+2025-01-30 19:03:23,412 - INFO - Finished processing file: USC00130133.txt.
+2025-01-30 19:03:23,412 - INFO - Records ingested from USC00130133.txt: 10957
+2025-01-30 19:03:23,416 - INFO - Processing file: USC00130600.txt started.
+2025-01-30 19:03:55,020 - INFO - Finished processing file: USC00130600.txt.
+2025-01-30 19:03:55,020 - INFO - Records ingested from USC00130600.txt: 10928
+2025-01-30 19:03:55,020 - INFO - Processing file: USC00131402.txt started.
+2025-01-30 19:04:27,926 - INFO - Finished processing file: USC00131402.txt.
+2025-01-30 19:04:27,926 - INFO - Records ingested from USC00131402.txt: 10957
+2025-01-30 19:04:27,926 - INFO - Processing file: USC00131533.txt started.
+2025-01-30 19:05:00,277 - INFO - Finished processing file: USC00131533.txt.
+2025-01-30 19:05:00,281 - INFO - Records ingested from USC00131533.txt: 10957
+2025-01-30 19:05:00,282 - INFO - Processing file: USC00131635.txt started.
+2025-01-30 19:05:33,720 - INFO - Finished processing file: USC00131635.txt.
+2025-01-30 19:05:33,720 - INFO - Records ingested from USC00131635.txt: 10957
+2025-01-30 19:05:33,720 - INFO - Processing file: USC00132724.txt started.
+2025-01-30 19:06:06,251 - INFO - Finished processing file: USC00132724.txt.
+2025-01-30 19:06:06,251 - INFO - Records ingested from USC00132724.txt: 10836
+2025-01-30 19:06:06,251 - INFO - Processing file: USC00132789.txt started.
+2025-01-30 19:06:39,136 - INFO - Finished processing file: USC00132789.txt.
+2025-01-30 19:06:39,136 - INFO - Records ingested from USC00132789.txt: 10957
+2025-01-30 19:06:39,136 - INFO - Processing file: USC00132864.txt started.
+2025-01-30 19:07:11,683 - INFO - Finished processing file: USC00132864.txt.
+2025-01-30 19:07:11,683 - INFO - Records ingested from USC00132864.txt: 10957
+2025-01-30 19:07:11,691 - INFO - Processing file: USC00132977.txt started.
+2025-01-30 19:07:45,023 - INFO - Finished processing file: USC00132977.txt.
+2025-01-30 19:07:45,023 - INFO - Records ingested from USC00132977.txt: 10957
+2025-01-30 19:07:45,023 - INFO - Processing file: USC00132999.txt started.
+2025-01-30 19:08:19,605 - INFO - Finished processing file: USC00132999.txt.
+2025-01-30 19:08:19,606 - INFO - Records ingested from USC00132999.txt: 10804
+2025-01-30 19:08:19,606 - INFO - Processing file: USC00134063.txt started.
+2025-01-30 19:08:50,971 - INFO - Finished processing file: USC00134063.txt.
+2025-01-30 19:08:50,971 - INFO - Records ingested from USC00134063.txt: 10714
+2025-01-30 19:08:50,971 - INFO - Processing file: USC00134142.txt started.
+2025-01-30 19:09:20,353 - INFO - Finished processing file: USC00134142.txt.
+2025-01-30 19:09:20,353 - INFO - Records ingested from USC00134142.txt: 10807
+2025-01-30 19:09:20,353 - INFO - Processing file: USC00134735.txt started.
+2025-01-30 19:09:50,899 - INFO - Finished processing file: USC00134735.txt.
+2025-01-30 19:09:50,899 - INFO - Records ingested from USC00134735.txt: 10928
+2025-01-30 19:09:50,901 - INFO - Processing file: USC00134894.txt started.
+2025-01-30 19:10:16,744 - INFO - Finished processing file: USC00134894.txt.
+2025-01-30 19:10:16,746 - INFO - Records ingested from USC00134894.txt: 10867
+2025-01-30 19:10:16,747 - INFO - Processing file: USC00135769.txt started.
+2025-01-30 19:10:42,546 - INFO - Finished processing file: USC00135769.txt.
+2025-01-30 19:10:42,546 - INFO - Records ingested from USC00135769.txt: 10833
+2025-01-30 19:10:42,546 - INFO - Processing file: USC00135796.txt started.
+2025-01-30 19:11:09,790 - INFO - Finished processing file: USC00135796.txt.
+2025-01-30 19:11:09,790 - INFO - Records ingested from USC00135796.txt: 10957
+2025-01-30 19:11:09,790 - INFO - Processing file: USC00135952.txt started.
+2025-01-30 19:11:36,324 - INFO - Finished processing file: USC00135952.txt.
+2025-01-30 19:11:36,324 - INFO - Records ingested from USC00135952.txt: 10899
+2025-01-30 19:11:36,324 - INFO - Processing file: USC00137147.txt started.
+2025-01-30 19:12:03,018 - INFO - Finished processing file: USC00137147.txt.
+2025-01-30 19:12:03,018 - INFO - Records ingested from USC00137147.txt: 10957
+2025-01-30 19:12:03,018 - INFO - Processing file: USC00137161.txt started.
+2025-01-30 19:12:26,744 - INFO - Finished processing file: USC00137161.txt.
+2025-01-30 19:12:26,744 - INFO - Records ingested from USC00137161.txt: 10957
+2025-01-30 19:12:26,744 - INFO - Processing file: USC00137979.txt started.
+2025-01-30 19:12:39,807 - INFO - Finished processing file: USC00137979.txt.
+2025-01-30 19:12:39,807 - INFO - Records ingested from USC00137979.txt: 10926
+2025-01-30 19:12:39,808 - INFO - Processing file: USC00138296.txt started.
+2025-01-30 19:12:49,910 - INFO - Finished processing file: USC00138296.txt.
+2025-01-30 19:12:49,911 - INFO - Records ingested from USC00138296.txt: 10837
+2025-01-30 19:12:49,911 - INFO - Processing file: USC00138688.txt started.
+2025-01-30 19:13:01,240 - INFO - Finished processing file: USC00138688.txt.
+2025-01-30 19:13:01,240 - INFO - Records ingested from USC00138688.txt: 10957
+2025-01-30 19:13:01,240 - INFO - Processing file: USC00250070.txt started.
+2025-01-30 19:13:08,920 - INFO - Finished processing file: USC00250070.txt.
+2025-01-30 19:13:08,921 - INFO - Records ingested from USC00250070.txt: 8918
+2025-01-30 19:13:08,921 - INFO - Processing file: USC00250130.txt started.
+2025-01-30 19:13:17,181 - INFO - Finished processing file: USC00250130.txt.
+2025-01-30 19:13:17,181 - INFO - Records ingested from USC00250130.txt: 9587
+2025-01-30 19:13:17,182 - INFO - Processing file: USC00250375.txt started.
+2025-01-30 19:13:26,964 - INFO - Finished processing file: USC00250375.txt.
+2025-01-30 19:13:26,964 - INFO - Records ingested from USC00250375.txt: 10835
+2025-01-30 19:13:26,964 - INFO - Processing file: USC00250420.txt started.
+2025-01-30 19:13:48,251 - INFO - Finished processing file: USC00250420.txt.
+2025-01-30 19:13:48,253 - INFO - Records ingested from USC00250420.txt: 10379
+2025-01-30 19:13:48,253 - INFO - Processing file: USC00250435.txt started.
+2025-01-30 19:14:20,631 - INFO - Finished processing file: USC00250435.txt.
+2025-01-30 19:14:20,631 - INFO - Records ingested from USC00250435.txt: 10957
+2025-01-30 19:14:20,631 - INFO - Processing file: USC00250622.txt started.
+2025-01-30 19:14:53,504 - INFO - Finished processing file: USC00250622.txt.
+2025-01-30 19:14:53,504 - INFO - Records ingested from USC00250622.txt: 10896
+2025-01-30 19:14:53,504 - INFO - Processing file: USC00250640.txt started.
+2025-01-30 19:15:26,118 - INFO - Finished processing file: USC00250640.txt.
+2025-01-30 19:15:26,118 - INFO - Records ingested from USC00250640.txt: 10957
+2025-01-30 19:15:26,118 - INFO - Processing file: USC00251145.txt started.
+2025-01-30 19:15:57,931 - INFO - Finished processing file: USC00251145.txt.
+2025-01-30 19:15:57,934 - INFO - Records ingested from USC00251145.txt: 10836
+2025-01-30 19:15:57,935 - INFO - Processing file: USC00251200.txt started.
+2025-01-30 19:16:26,155 - INFO - Finished processing file: USC00251200.txt.
+2025-01-30 19:16:26,155 - INFO - Records ingested from USC00251200.txt: 10805
+2025-01-30 19:16:26,155 - INFO - Processing file: USC00252020.txt started.
+2025-01-30 19:16:52,023 - INFO - Finished processing file: USC00252020.txt.
+2025-01-30 19:16:52,023 - INFO - Records ingested from USC00252020.txt: 10746
+2025-01-30 19:16:52,023 - INFO - Processing file: USC00252100.txt started.
+2025-01-30 19:17:18,746 - INFO - Finished processing file: USC00252100.txt.
+2025-01-30 19:17:18,748 - INFO - Records ingested from USC00252100.txt: 10713
+2025-01-30 19:17:18,748 - INFO - Processing file: USC00252205.txt started.
+2025-01-30 19:17:45,883 - INFO - Finished processing file: USC00252205.txt.
+2025-01-30 19:17:45,883 - INFO - Records ingested from USC00252205.txt: 10926
+2025-01-30 19:17:45,883 - INFO - Processing file: USC00252820.txt started.
+2025-01-30 19:18:12,887 - INFO - Finished processing file: USC00252820.txt.
+2025-01-30 19:18:12,887 - INFO - Records ingested from USC00252820.txt: 10896
+2025-01-30 19:18:12,887 - INFO - Processing file: USC00252840.txt started.
+2025-01-30 19:18:36,285 - INFO - Finished processing file: USC00252840.txt.
+2025-01-30 19:18:36,285 - INFO - Records ingested from USC00252840.txt: 9771
+2025-01-30 19:18:36,285 - INFO - Processing file: USC00253035.txt started.
+2025-01-30 19:18:41,376 - INFO - Finished processing file: USC00253035.txt.
+2025-01-30 19:18:41,376 - INFO - Records ingested from USC00253035.txt: 2069
+2025-01-30 19:18:41,376 - INFO - Processing file: USC00253175.txt started.
+2025-01-30 19:19:10,418 - INFO - Finished processing file: USC00253175.txt.
+2025-01-30 19:19:10,418 - INFO - Records ingested from USC00253175.txt: 10957
+2025-01-30 19:19:10,418 - INFO - Processing file: USC00253185.txt started.
+2025-01-30 19:19:43,230 - INFO - Finished processing file: USC00253185.txt.
+2025-01-30 19:19:43,230 - INFO - Records ingested from USC00253185.txt: 10957
+2025-01-30 19:19:43,230 - INFO - Processing file: USC00253365.txt started.
+2025-01-30 19:20:14,787 - INFO - Finished processing file: USC00253365.txt.
+2025-01-30 19:20:14,787 - INFO - Records ingested from USC00253365.txt: 10926
+2025-01-30 19:20:14,787 - INFO - Processing file: USC00253615.txt started.
+2025-01-30 19:20:47,380 - INFO - Finished processing file: USC00253615.txt.
+2025-01-30 19:20:47,380 - INFO - Records ingested from USC00253615.txt: 10927
+2025-01-30 19:20:47,380 - INFO - Processing file: USC00253630.txt started.
+2025-01-30 19:21:19,598 - INFO - Finished processing file: USC00253630.txt.
+2025-01-30 19:21:19,598 - INFO - Records ingested from USC00253630.txt: 10927
+2025-01-30 19:21:19,598 - INFO - Processing file: USC00253660.txt started.
+2025-01-30 19:21:51,522 - INFO - Finished processing file: USC00253660.txt.
+2025-01-30 19:21:51,522 - INFO - Records ingested from USC00253660.txt: 10896
+2025-01-30 19:21:51,524 - INFO - Processing file: USC00253715.txt started.
+2025-01-30 19:22:16,818 - INFO - Finished processing file: USC00253715.txt.
+2025-01-30 19:22:16,818 - INFO - Records ingested from USC00253715.txt: 8521
+2025-01-30 19:22:16,824 - INFO - Processing file: USC00253735.txt started.
+2025-01-30 19:22:48,728 - INFO - Finished processing file: USC00253735.txt.
+2025-01-30 19:22:48,728 - INFO - Records ingested from USC00253735.txt: 10868
+2025-01-30 19:22:48,728 - INFO - Processing file: USC00253910.txt started.
+2025-01-30 19:23:25,520 - INFO - Finished processing file: USC00253910.txt.
+2025-01-30 19:23:25,522 - INFO - Records ingested from USC00253910.txt: 10957
+2025-01-30 19:23:25,522 - INFO - Processing file: USC00254110.txt started.
+2025-01-30 19:24:02,340 - INFO - Finished processing file: USC00254110.txt.
+2025-01-30 19:24:02,340 - INFO - Records ingested from USC00254110.txt: 10683
+2025-01-30 19:24:02,340 - INFO - Processing file: USC00254440.txt started.
+2025-01-30 19:24:39,140 - INFO - Finished processing file: USC00254440.txt.
+2025-01-30 19:24:39,141 - INFO - Records ingested from USC00254440.txt: 10866
+2025-01-30 19:24:39,141 - INFO - Processing file: USC00254900.txt started.
+2025-01-30 19:25:15,893 - INFO - Finished processing file: USC00254900.txt.
+2025-01-30 19:25:15,893 - INFO - Records ingested from USC00254900.txt: 10927
+2025-01-30 19:25:15,893 - INFO - Processing file: USC00254985.txt started.
+2025-01-30 19:25:47,247 - INFO - Finished processing file: USC00254985.txt.
+2025-01-30 19:25:47,247 - INFO - Records ingested from USC00254985.txt: 9861
+2025-01-30 19:25:47,247 - INFO - Processing file: USC00255080.txt started.
+2025-01-30 19:26:09,272 - INFO - Finished processing file: USC00255080.txt.
+2025-01-30 19:26:09,272 - INFO - Records ingested from USC00255080.txt: 9556
+2025-01-30 19:26:09,272 - INFO - Processing file: USC00255310.txt started.
+2025-01-30 19:26:41,692 - INFO - Finished processing file: USC00255310.txt.
+2025-01-30 19:26:41,692 - INFO - Records ingested from USC00255310.txt: 10926
+2025-01-30 19:26:41,692 - INFO - Processing file: USC00255470.txt started.
+2025-01-30 19:27:07,500 - INFO - Finished processing file: USC00255470.txt.
+2025-01-30 19:27:07,500 - INFO - Records ingested from USC00255470.txt: 8489
+2025-01-30 19:27:07,500 - INFO - Processing file: USC00255565.txt started.
+2025-01-30 19:27:41,700 - INFO - Finished processing file: USC00255565.txt.
+2025-01-30 19:27:41,701 - INFO - Records ingested from USC00255565.txt: 10957
+2025-01-30 19:27:41,701 - INFO - Processing file: USC00256040.txt started.
+2025-01-30 19:28:08,714 - INFO - Finished processing file: USC00256040.txt.
+2025-01-30 19:28:08,714 - INFO - Records ingested from USC00256040.txt: 9009
+2025-01-30 19:28:08,714 - INFO - Processing file: USC00256135.txt started.
+2025-01-30 19:28:42,525 - INFO - Finished processing file: USC00256135.txt.
+2025-01-30 19:28:42,525 - INFO - Records ingested from USC00256135.txt: 10957
+2025-01-30 19:28:42,526 - INFO - Processing file: USC00256570.txt started.
+2025-01-30 19:29:15,480 - INFO - Finished processing file: USC00256570.txt.
+2025-01-30 19:29:15,480 - INFO - Records ingested from USC00256570.txt: 10836
+2025-01-30 19:29:15,480 - INFO - Processing file: USC00256970.txt started.
+2025-01-30 19:56:36,009 - INFO - Finished processing file: USC00256970.txt.
+2025-01-30 19:56:36,009 - INFO - Records ingested from USC00256970.txt: 10017
+2025-01-30 19:56:36,010 - INFO - Processing file: USC00257070.txt started.
+2025-01-30 19:56:52,248 - INFO - Finished processing file: USC00257070.txt.
+2025-01-30 19:56:52,248 - INFO - Records ingested from USC00257070.txt: 10926
+2025-01-30 19:56:52,248 - INFO - Processing file: USC00257515.txt started.
+2025-01-30 19:57:02,587 - INFO - Finished processing file: USC00257515.txt.
+2025-01-30 19:57:02,587 - INFO - Records ingested from USC00257515.txt: 10075
+2025-01-30 19:57:02,587 - INFO - Processing file: USC00257715.txt started.
+2025-01-30 19:57:16,264 - INFO - Finished processing file: USC00257715.txt.
+2025-01-30 19:57:16,264 - INFO - Records ingested from USC00257715.txt: 10957
+2025-01-30 19:57:16,265 - INFO - Processing file: USC00258133.txt started.
+2025-01-30 19:57:25,787 - INFO - Finished processing file: USC00258133.txt.
+2025-01-30 19:57:25,787 - INFO - Records ingested from USC00258133.txt: 9225
+2025-01-30 19:57:25,788 - INFO - Processing file: USC00258395.txt started.
+2025-01-30 19:57:37,995 - INFO - Finished processing file: USC00258395.txt.
+2025-01-30 19:57:37,995 - INFO - Records ingested from USC00258395.txt: 10957
+2025-01-30 19:57:37,995 - INFO - Processing file: USC00258465.txt started.
+2025-01-30 19:57:46,945 - INFO - Finished processing file: USC00258465.txt.
+2025-01-30 19:57:46,945 - INFO - Records ingested from USC00258465.txt: 10684
+2025-01-30 19:57:46,945 - INFO - Processing file: USC00258480.txt started.
+2025-01-30 19:57:56,070 - INFO - Finished processing file: USC00258480.txt.
+2025-01-30 19:57:56,071 - INFO - Records ingested from USC00258480.txt: 10808
+2025-01-30 19:57:56,071 - INFO - Processing file: USC00258915.txt started.
+2025-01-30 19:58:03,454 - INFO - Finished processing file: USC00258915.txt.
+2025-01-30 19:58:03,454 - INFO - Records ingested from USC00258915.txt: 10957
+2025-01-30 19:58:03,454 - INFO - Processing file: USC00259090.txt started.
+2025-01-30 19:58:08,983 - INFO - Finished processing file: USC00259090.txt.
+2025-01-30 19:58:08,983 - INFO - Records ingested from USC00259090.txt: 9374
+2025-01-30 19:58:08,983 - INFO - Processing file: USC00259510.txt started.
+2025-01-30 19:58:17,203 - INFO - Finished processing file: USC00259510.txt.
+2025-01-30 19:58:17,204 - INFO - Records ingested from USC00259510.txt: 8735
+2025-01-30 19:58:17,204 - INFO - Processing file: USC00331072.txt started.
+2025-01-30 19:58:30,420 - INFO - Finished processing file: USC00331072.txt.
+2025-01-30 19:58:30,420 - INFO - Records ingested from USC00331072.txt: 10957
+2025-01-30 19:58:30,420 - INFO - Processing file: USC00331152.txt started.
+2025-01-30 19:58:37,463 - INFO - Finished processing file: USC00331152.txt.
+2025-01-30 19:58:37,464 - INFO - Records ingested from USC00331152.txt: 8886
+2025-01-30 19:58:37,464 - INFO - Processing file: USC00331541.txt started.
+2025-01-30 19:58:46,498 - INFO - Finished processing file: USC00331541.txt.
+2025-01-30 19:58:46,498 - INFO - Records ingested from USC00331541.txt: 10957
+2025-01-30 19:58:46,499 - INFO - Processing file: USC00331592.txt started.
+2025-01-30 19:58:56,691 - INFO - Finished processing file: USC00331592.txt.
+2025-01-30 19:58:56,691 - INFO - Records ingested from USC00331592.txt: 10957
+2025-01-30 19:58:56,691 - INFO - Processing file: USC00331890.txt started.
+2025-01-30 19:59:06,245 - INFO - Finished processing file: USC00331890.txt.
+2025-01-30 19:59:06,245 - INFO - Records ingested from USC00331890.txt: 10772
+2025-01-30 19:59:06,245 - INFO - Processing file: USC00332098.txt started.
+2025-01-30 19:59:16,346 - INFO - Finished processing file: USC00332098.txt.
+2025-01-30 19:59:16,346 - INFO - Records ingested from USC00332098.txt: 10927
+2025-01-30 19:59:16,346 - INFO - Processing file: USC00332119.txt started.
+2025-01-30 19:59:20,947 - INFO - Finished processing file: USC00332119.txt.
+2025-01-30 19:59:20,947 - INFO - Records ingested from USC00332119.txt: 5722
+2025-01-30 19:59:20,947 - INFO - Processing file: USC00332791.txt started.
+2025-01-30 19:59:30,245 - INFO - Finished processing file: USC00332791.txt.
+2025-01-30 19:59:30,246 - INFO - Records ingested from USC00332791.txt: 10957
+2025-01-30 19:59:30,246 - INFO - Processing file: USC00333375.txt started.
+2025-01-30 19:59:42,155 - INFO - Finished processing file: USC00333375.txt.
+2025-01-30 19:59:42,155 - INFO - Records ingested from USC00333375.txt: 10926
+2025-01-30 19:59:42,155 - INFO - Processing file: USC00333758.txt started.
+2025-01-30 19:59:53,101 - INFO - Finished processing file: USC00333758.txt.
+2025-01-30 19:59:53,101 - INFO - Records ingested from USC00333758.txt: 10712
+2025-01-30 19:59:53,101 - INFO - Processing file: USC00333780.txt started.
+2025-01-30 20:00:09,661 - INFO - Finished processing file: USC00333780.txt.
+2025-01-30 20:00:09,661 - INFO - Records ingested from USC00333780.txt: 10927
+2025-01-30 20:00:09,661 - INFO - Processing file: USC00334189.txt started.
+2025-01-30 20:00:24,458 - INFO - Finished processing file: USC00334189.txt.
+2025-01-30 20:00:24,458 - INFO - Records ingested from USC00334189.txt: 10834
+2025-01-30 20:00:24,458 - INFO - Processing file: USC00335041.txt started.
+2025-01-30 20:00:34,531 - INFO - Finished processing file: USC00335041.txt.
+2025-01-30 20:00:34,531 - INFO - Records ingested from USC00335041.txt: 10896
+2025-01-30 20:00:34,531 - INFO - Processing file: USC00335297.txt started.
+2025-01-30 20:00:40,687 - INFO - Finished processing file: USC00335297.txt.
+2025-01-30 20:00:40,688 - INFO - Records ingested from USC00335297.txt: 9557
+2025-01-30 20:00:40,688 - INFO - Processing file: USC00335315.txt started.
+2025-01-30 20:00:45,985 - INFO - Finished processing file: USC00335315.txt.
+2025-01-30 20:00:45,985 - INFO - Records ingested from USC00335315.txt: 9768
+2025-01-30 20:00:45,985 - INFO - Processing file: USC00336118.txt started.
+2025-01-30 20:00:52,406 - INFO - Finished processing file: USC00336118.txt.
+2025-01-30 20:00:52,407 - INFO - Records ingested from USC00336118.txt: 10957
+2025-01-30 20:00:52,407 - INFO - Processing file: USC00336196.txt started.
+2025-01-30 20:00:59,054 - INFO - Finished processing file: USC00336196.txt.
+2025-01-30 20:00:59,054 - INFO - Records ingested from USC00336196.txt: 10957
+2025-01-30 20:00:59,054 - INFO - Processing file: USC00336600.txt started.
+2025-01-30 20:01:05,387 - INFO - Finished processing file: USC00336600.txt.
+2025-01-30 20:01:05,387 - INFO - Records ingested from USC00336600.txt: 10561
+2025-01-30 20:01:05,387 - INFO - Processing file: USC00336781.txt started.
+2025-01-30 20:01:11,771 - INFO - Finished processing file: USC00336781.txt.
+2025-01-30 20:01:11,771 - INFO - Records ingested from USC00336781.txt: 10927
+2025-01-30 20:01:11,771 - INFO - Processing file: USC00338313.txt started.
+2025-01-30 20:01:21,787 - INFO - Finished processing file: USC00338313.txt.
+2025-01-30 20:01:21,787 - INFO - Records ingested from USC00338313.txt: 9862
+2025-01-30 20:01:21,787 - INFO - Processing file: USC00338534.txt started.
+2025-01-30 20:01:31,756 - INFO - Finished processing file: USC00338534.txt.
+2025-01-30 20:01:31,756 - INFO - Records ingested from USC00338534.txt: 10469
+2025-01-30 20:01:31,756 - INFO - Processing file: USC00338552.txt started.
+2025-01-30 20:01:41,524 - INFO - Finished processing file: USC00338552.txt.
+2025-01-30 20:01:41,524 - INFO - Records ingested from USC00338552.txt: 10896
+2025-01-30 20:01:41,525 - INFO - Processing file: USC00338769.txt started.
+2025-01-30 20:01:51,031 - INFO - Finished processing file: USC00338769.txt.
+2025-01-30 20:01:51,031 - INFO - Records ingested from USC00338769.txt: 10957
+2025-01-30 20:01:51,032 - INFO - Processing file: USC00338822.txt started.
+2025-01-30 20:02:01,527 - INFO - Finished processing file: USC00338822.txt.
+2025-01-30 20:02:01,528 - INFO - Records ingested from USC00338822.txt: 10957
+2025-01-30 20:02:01,528 - INFO - Processing file: USC00338830.txt started.
+2025-01-30 20:02:11,606 - INFO - Finished processing file: USC00338830.txt.
+2025-01-30 20:02:11,606 - INFO - Records ingested from USC00338830.txt: 10957
+2025-01-30 20:02:11,606 - INFO - Processing file: USC00339312.txt started.
+2025-01-30 20:02:20,654 - INFO - Finished processing file: USC00339312.txt.
+2025-01-30 20:02:20,654 - INFO - Records ingested from USC00339312.txt: 10957
+2025-01-30 20:02:20,655 - INFO - Weather data ingestion finished at 2025-01-30 20:02:20.655340
+2025-01-30 20:02:20,655 - INFO - Total ingestion time: 2:37:07.688520
+2025-01-30 20:02:20,655 - INFO - Total records ingested: 1729957
+2025-01-31 10:45:40,648 - INFO - Weather data ingestion started at 2025-01-31 10:45:40.648082
+2025-01-31 10:45:40,713 - INFO - Processing file: USC00110072.txt started.

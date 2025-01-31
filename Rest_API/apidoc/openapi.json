@@ -1,0 +1,353 @@
+{
+    "openapi": "3.1.0",
+    "info": {
+        "title": "Weather API",
+        "description": "API for accessing weather data and statistics",
+        "version": "1.0.0"
+    },
+    "paths": {
+        "/api/weather": {
+            "get": {
+                "tags": [
+                    "Weather Data"
+                ],
+                "summary": "Get Weather Data",
+                "operationId": "get_weather_data_api_weather_get",
+                "parameters": [
+                    {
+                        "name": "station_id",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "anyOf": [
+                                {
+                                    "type": "string"
+                                },
+                                {
+                                    "type": "null"
+                                }
+                            ],
+                            "description": "Filter by station ID",
+                            "title": "Station Id"
+                        },
+                        "description": "Filter by station ID"
+                    },
+                    {
+                        "name": "date",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "anyOf": [
+                                {
+                                    "type": "string",
+                                    "format": "date"
+                                },
+                                {
+                                    "type": "null"
+                                }
+                            ],
+                            "description": "Filter by date (YYYY-MM-DD)",
+                            "examples": {
+                                "default": "2024-01-01"
+                            },
+                            "title": "Date"
+                        },
+                        "description": "Filter by date (YYYY-MM-DD)"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "description": "Page number, default is 1",
+                            "default": 1,
+                            "title": "Page"
+                        },
+                        "description": "Page number, default is 1"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/WeatherDataSchema"
+                                    },
+                                    "title": "Response Get Weather Data Api Weather Get"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/api/weather/stats": {
+            "get": {
+                "tags": [
+                    "Weather Statistics"
+                ],
+                "summary": "Get Weather Stats",
+                "operationId": "get_weather_stats_api_weather_stats_get",
+                "parameters": [
+                    {
+                        "name": "station_id",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "anyOf": [
+                                {
+                                    "type": "string"
+                                },
+                                {
+                                    "type": "null"
+                                }
+                            ],
+                            "description": "Filter by station ID",
+                            "title": "Station Id"
+                        },
+                        "description": "Filter by station ID"
+                    },
+                    {
+                        "name": "year",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "anyOf": [
+                                {
+                                    "type": "integer"
+                                },
+                                {
+                                    "type": "null"
+                                }
+                            ],
+                            "description": "Filter by year",
+                            "title": "Year"
+                        },
+                        "description": "Filter by year"
+                    },
+                    {
+                        "name": "page",
+                        "in": "query",
+                        "required": false,
+                        "schema": {
+                            "type": "integer",
+                            "description": "Page number, default is 1",
+                            "default": 1,
+                            "title": "Page"
+                        },
+                        "description": "Page number, default is 1"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/components/schemas/WeatherStatsSchema"
+                                    },
+                                    "title": "Response Get Weather Stats Api Weather Stats Get"
+                                }
+                            }
+                        }
+                    },
+                    "422": {
+                        "description": "Validation Error",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "$ref": "#/components/schemas/HTTPValidationError"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/": {
+            "get": {
+                "summary": "Root",
+                "operationId": "root__get",
+                "responses": {
+                    "200": {
+                        "description": "Successful Response",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "HTTPValidationError": {
+                "properties": {
+                    "detail": {
+                        "items": {
+                            "$ref": "#/components/schemas/ValidationError"
+                        },
+                        "type": "array",
+                        "title": "Detail"
+                    }
+                },
+                "type": "object",
+                "title": "HTTPValidationError"
+            },
+            "ValidationError": {
+                "properties": {
+                    "loc": {
+                        "items": {
+                            "anyOf": [
+                                {
+                                    "type": "string"
+                                },
+                                {
+                                    "type": "integer"
+                                }
+                            ]
+                        },
+                        "type": "array",
+                        "title": "Location"
+                    },
+                    "msg": {
+                        "type": "string",
+                        "title": "Message"
+                    },
+                    "type": {
+                        "type": "string",
+                        "title": "Error Type"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "loc",
+                    "msg",
+                    "type"
+                ],
+                "title": "ValidationError"
+            },
+            "WeatherDataSchema": {
+                "properties": {
+                    "station_id": {
+                        "type": "string",
+                        "title": "Station Id"
+                    },
+                    "date": {
+                        "type": "string",
+                        "format": "date",
+                        "title": "Date"
+                    },
+                    "max_temp": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Max Temp"
+                    },
+                    "min_temp": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Min Temp"
+                    },
+                    "precipitation": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Precipitation"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "station_id",
+                    "date"
+                ],
+                "title": "WeatherDataSchema"
+            },
+            "WeatherStatsSchema": {
+                "properties": {
+                    "station_id": {
+                        "type": "string",
+                        "title": "Station Id"
+                    },
+                    "year": {
+                        "type": "integer",
+                        "title": "Year"
+                    },
+                    "avg_max_temp": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Avg Max Temp"
+                    },
+                    "avg_min_temp": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Avg Min Temp"
+                    },
+                    "total_precipitation": {
+                        "anyOf": [
+                            {
+                                "type": "number"
+                            },
+                            {
+                                "type": "null"
+                            }
+                        ],
+                        "title": "Total Precipitation"
+                    }
+                },
+                "type": "object",
+                "required": [
+                    "station_id",
+                    "year"
+                ],
+                "title": "WeatherStatsSchema"
+            }
+        }
+    }
+}

@@ -1,0 +1,21 @@
+REST_API/
+├── .env                 # Environment variables for configuration (database credentials, etc.)
+├── config.py            # Configuration settings for the application
+├── database.py          # Database interaction logic (models, connection)
+├── main.py              # Main script that starts the API server
+├── models.py            # Data models representing API entities (e.g., User, Product)
+├── requirements.txt     # List of required Python libraries
+├── schemas.py           # Data validation schemas for API requests and responses
+├── utils.py             # Utility functions used throughout the application
+├── __init__.py          # Makes the 'app' directory a Python package
+└── app/
+    ├── routes/
+    │   ├── api.py         # Defines API endpoints and their logic
+    └── __init__.py        # Makes the 'app' directory a Python package
+├── tests/
+│   ├── .env             # (Optional) Environment variables for testing
+│   ├── conftest.py        # Pytest configuration for tests
+│   ├── test_api.py        # Unit tests for API endpoints
+│   ├── test_api_stats.py  # (Optional) Tests for API statistics functionality (if applicable)
+│   └── __init__.py        # Makes the 'tests' directory a Python package
+├── README.md            # Project documentation

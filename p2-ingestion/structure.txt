@@ -1,0 +1,12 @@
+app/
+├── .env        # Environment variables file (optional)
+├── config.py    # Configuration settings
+├── database.py  # Database connection and model definitions
+├── ingestion.py  # Functions for processing and ingesting weather data
+├── main.py      # Main script to orchestrate the ingestion process
+├── models.py    # Definition of data models for weather data
+├── requirements.txt  # List of required Python libraries
+├── __init__.py  # Empty file to mark the directory as a package
+├── weather_data_ingestion.log  # Log file for recording messages
+└── data/
+    └── wx_data/  # Directory containing weather data files (kept intact)

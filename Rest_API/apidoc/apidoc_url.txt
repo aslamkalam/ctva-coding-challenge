@@ -1,0 +1,3 @@
+redocs  -----> http://127.0.0.1:8000/redoc
+swagger -----> http://127.0.0.1:8000/docs
+openapi -----> http://127.0.0.1:8000/openapi.json
